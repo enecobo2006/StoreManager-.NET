@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="StoreManager/StoreManager.csproj" />
+  <Project Path="Store.BLL/Store.BLL.csproj" Id="f90f3790-53fb-4ad9-8793-70a6a27d8af3" />
+  <Project Path="Store.Common/Store.Common.csproj" Id="ff68b8cf-5367-4cfe-837b-e7a442502fdd" />
+  <Project Path="Store.DAL/Store.DAL.csproj" Id="545ac16d-4805-405d-bac0-c77b76551ff5" />
+  <Project Path="StoreManager/Store.csproj" />
 </Solution>
